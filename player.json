@@ -3,142 +3,114 @@
     {
       "id": 1,
       "no": 1,
-      "name": "David De Gea",
-      "birth_date": "1990-11-07",
-      "Position": "Goalkeeper",
-      "International": "Spain",
-      "Team": "Manchester United",
-      "Poster": "https://upload.wikimedia.org/wikipedia/commons/2/2d/David_de_Gea.jpg"
+      "name": "Marc-André ter Stegen",
+      "birth_date": "30 April 1992",
+      "Position": "GOALKEEPER",
+      "Poster": "https://cdn.images.express.co.uk/img/dynamic/67/590x/Barcelona-News-Marc-Andre-ter-Stegen-Sergio-Ramos-Real-Madrid-E-Clasico-895292.jpg"
     },
     {
       "id": 2,
       "no": 2,
-      "name": "Victor Lindelov",
-      "birth_date": "1994-07-17",
-      "Position": "Defender",
-      "International": "Sweden",
-      "Team": "Manchester United",
-      "Poster": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Benf-Zen_2016_%285%29.jpg"
+      "name": "Nélson Semedo",
+      "birth_date": "16 November 1993",
+      "Position": "DEFENDER",
+      "Poster": "https://www.fcbarcelonanoticias.com/uploads/s1/11/54/08/2/nelson-semedo-barcelona.jpeg"
     },
     {
       "id": 3,
       "no": 3,
-      "name": "Erick Bailly",
-      "birth_date": "1994-04-12",
-      "Position": "Defender",
-      "International": "Ivory Coast",
-      "Team": "Manchester United",
-      "Poster": "https://upload.wikimedia.org/wikipedia/commons/5/58/Eric_Bailly.jpg"
+      "name": "Gerard Piqué",
+      "birth_date": "02 February 1987",
+      "Position": "DEFENDER",
+      "Poster": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2018/08/16/15344449258817.jpg"
     },
     {
       "id": 4,
-      "no": 4,
-      "name": "Phil Jones",
-      "birth_date": "1992-02-21",
-      "Position": "Defender",
-      "International": "England",
-      "Team": "Manchester United",
-      "Poster": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Phil_Jones_2017.jpg"
+      "no": 15,
+      "name": "Clément Lenglet",
+      "birth_date": "17 June 1995",
+      "Position": "DEFENDER",
+      "Poster": "https://images.beinsports.com/OdO4ml0HvlGgpMiOYHNh7LlP_6g=/full-fit-in/1000x0/2726405-lenglet-bein.jpg"
     },
     {
       "id": 5,
-      "no": 5,
-      "name": "Marcos Rojo",
+      "no": 18,
+      "name": "Jordi Alba",
       "birth_date": "1990-03-20",
-      "Position": "Defender",
-      "International": "Argentina",
-      "Team": "Manchester United",
-      "Poster": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Marcos_Rojo_%E2%80%93_Portugal_vs._Argentina%2C_9th_February_2011_%281%29.jpg"
+      "Position": "DEFENDER",
+      "Poster": "https://cdn.images.express.co.uk/img/dynamic/67/590x/Jordi-Alba-953112.jpg"
     },
     {
       "id": 6,
-      "no": 6,
-      "name": "Paul Pogba",
-      "birth_date": "1993-03-15",
-      "Position": "MidFielder",
-      "International": "France",
-      "Team": "Manchester United",
-      "Poster": "https://upload.wikimedia.org/wikipedia/commons/f/fc/FRA-ARG_%2811%29_-_Paul_Pogba_%28cropped%29.jpg"
+      "no": 5,
+      "name": "Sergio Busquets",
+      "birth_date": "16 July 1988",
+      "Position": "MIDFIELDER",
+      "Poster": "https://www.fcbarcelonanoticias.com/uploads/s1/11/55/12/2/busquets-saitama.jpeg"
     },
     {
       "id": 7,
-      "no": 7,
-      "name": "Alexis",
-      "birth_date": "1988-12-19",
-      "Position": "Forward",
-      "International": "Chile",
-      "Team": "Manchester United",
-      "Poster": "https://upload.wikimedia.org/wikipedia/commons/5/50/Alexis_S%C3%A1nchez_2017.jpg"
+      "no": 21,
+      "name": "Frenkie de Jong",
+      "birth_date": "12 May 1996",
+      "Position": "MIDFIELDER",
+      "Poster": "https://cdns.klimg.com/bola.net/library/upload/21/2019/07/frenkie-de-jong2_9075baf.jpg"
     },
     {
       "id": 8,
       "no": 8,
-      "name": "Juan Mata",
-      "birth_date": "1988-04-28",
-      "Position": "Attacking MidFielder",
-      "International": "Spain",
-      "Team": "Manchester United",
-      "Poster": "https://upload.wikimedia.org/wikipedia/commons/3/31/Zarya-MU_%2810%29.jpg"
+      "name": "Arthur",
+      "birth_date": "12 August 1996",
+      "Position": "MIDFIELDER",
+      "Poster": "https://estaticos.sport.es/resources/jpg/8/8/contrato-arthur-melo-contiene-cuatro-variables-favor-antiguo-club-gremio-1538126249888.jpg"
     },
     {
       "id": 9,
-      "no": 9,
-      "name": "Romelu Lukaku",
-      "birth_date": "1993-05-13",
-      "Position": "Striker",
-      "International": "Belgium",
-      "Team": "Manchester United",
-      "Poster": "https://upload.wikimedia.org/wikipedia/commons/d/db/Bel-Tun_%287%29.jpg"
+      "no": 10,
+      "name": "Lionel Messi",
+      "birth_date": "24 June 1987",
+      "Position": "FORWARD",
+      "Poster": "//as01.epimg.net/en/imagenes/2019/08/05/football/1565016428_623088_noticia_normal.jpg"
     },
     {
       "id": 10,
-      "no": 11,
-      "name": "Anthony Martial",
-      "birth_date": "1995-12-05",
-      "Position": "Striker",
-      "International": "France",
-      "Team": "Manchester United",
-      "Poster": "https://upload.wikimedia.org/wikipedia/commons/8/88/Anthony_Martial_27_September_2017_cropped.jpg"
+      "no": 9,
+      "name": "Luis Suárez",
+      "birth_date": "24 January 1987",
+      "Position": "FORWARD",
+      "Poster": "https://img.depor.com/files/article_main/uploads/2019/03/14/5c8a78c959acc.jpeg"
     },
     {
       "id": 11,
-      "no": 12,
-      "name": "Chris Smalling",
-      "birth_date": "1989-11-22",
-      "Position": "Defender",
-      "International": "England",
-      "Team": "Manchester United",
-      "Poster": "https://upload.wikimedia.org/wikipedia/commons/6/65/CSKA-MU_2017_%2815%29.jpg"
+      "no": 11,
+      "name": "Ousmane Dembélé",
+      "birth_date": "15 May 1997",
+      "Position": "FORWARD",
+      "Poster": "https://as02.epimg.net/futbol/imagenes/2018/09/20/primera/1537455369_856870_1537514359_noticia_normal.jpg"
     },
     {
       "id": 12,
-      "no": 14,
-      "name": "Jesse Lingard",
-      "birth_date": "1992-12-15",
-      "Position": "MidFielder",
-      "International": "England",
-      "Team": "Manchester United",
-      "Poster": "https://upload.wikimedia.org/wikipedia/commons/1/11/Jesse_Lingard_2018-06-13_1.jpg"
+      "no": 17,
+      "name": "Antoine Griezmann",
+      "birth_date": "21 March 1991",
+      "Position": "FORWARD",
+      "Poster": "https://sportnieuws.nl/app/uploads/2019/07/ANP-75666669-756x422.jpg"
     },
     {
       "id": 13,
-      "no": 40,
-      "name": "Joel Pereira",
-      "birth_date": "1996-01-01",
-      "Position": "Goal Keeper",
-      "International": "Portugal",
-      "Team": "Manchester United",
-      "Poster": "https://upload.wikimedia.org/wikipedia/commons/1/19/Joel_Castro_Pereira_%28cropped%29.jpg"
+      "no": 4,
+      "name": "Ivan Rakitic",
+      "birth_date": "10 March 1988",
+      "Position": "MIDFIELDER",
+      "Poster": "http://as01.epimg.net/futbol/imagenes/2017/12/14/primera/1513248969_403077_1513249122_noticia_normal.jpg"
     },
     {
       "id": 14,
-      "no": 19,
-      "name": "Marcus Rashford",
-      "birth_date": "1997-02-02",
-      "Position": "Forward",
-      "International": "England",
-      "Team": "Manchester United",
-      "Poster": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Press_Tren_CSKA_-_MU_%283%29.jpg"
+      "no": 22,
+      "name": "Arturo Vidal",
+      "birth_date": "22 May 1987",
+      "Position": "MIDFIELDER",
+      "Poster": "https://sportku.com/uploads/news/2018/10/arturo-vidal-marah-valverde-18185796cc7a1b9.jpg"
     }
   ]
 }
